@@ -1,6 +1,5 @@
 // Copyright 2018 Your Name <your_email>
-#ifndef TASK1_HPP_INCLUDED
-#define TASK1_HPP_INCLUDED
+
 #pragma once
 
 #include "Stack.hpp"
@@ -30,7 +29,6 @@ public:
         }
     }
 };
-© 2020 GitHub, Inc.
 
 
-#endif // TASK1_HPP_INCLUDED
+
